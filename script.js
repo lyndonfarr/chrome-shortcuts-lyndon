@@ -10,7 +10,7 @@ let links = {
     c: `https://www.coursera.org/`,
     f: `https://www.freecodecamp.org/learn/`,
     g: `https://github.com/`,
-    p: `https://protonmail.com/`,
+    p: `https://mail.protonmail.com/login`,
     u: `https://www.udemy.com/home/my-courses/learning/`,
 };
 
