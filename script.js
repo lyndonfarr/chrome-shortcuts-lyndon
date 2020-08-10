@@ -10,8 +10,10 @@ let links = {
     c: `https://www.coursera.org/`,
     f: `https://www.freecodecamp.org/learn/`,
     g: `https://github.com/`,
+    l: `https://laravel.com/docs/7.x`,
     p: `https://mail.protonmail.com/login`,
     u: `https://www.udemy.com/home/my-courses/learning/`,
+    v: `https://vuejs.org/v2/guide/`,
 };
 
 let library = {
