@@ -45,7 +45,8 @@ let library = {
             open(webAddress, `_blank`);
         },
         check(e) {
-            return e.metaKey && e.ctrlKey && e.shiftKey;
+            console.log(e)
+            return e.metaKey && e.shiftKey;
         },
         shortcuts: links,
     }
