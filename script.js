@@ -65,6 +65,7 @@ function alphabetLoop(e, shortcuts, func) {
 
 addEventListener(`keydown`, (e) => {
     console.log(e);
+    console.log(`hey`)
     for (const [key, value] of Object.entries(library).reverse()) {
         if (value.check(e) && !e.altKey) {
             alphabetLoop(e, value.shortcuts, value.action)
