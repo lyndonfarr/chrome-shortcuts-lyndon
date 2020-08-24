@@ -11,9 +11,12 @@ let links = {
     f: `https://www.freecodecamp.org/learn/`,
     g: `https://github.com/`,
     l: `https://laravel.com/docs/7.x`,
+    n: `https://www.linkedin.com/in/lyndonfarr/`,
     p: `https://mail.protonmail.com/login`,
+    r: `https://docs.google.com/spreadsheets/d/1y-cb2XBx9aYhENVpKcf99CbFcIt0zdByyNK3mORc-z0/edit#gid=0`,
     u: `https://www.udemy.com/home/my-courses/learning/`,
     v: `https://vuejs.org/v2/guide/`,
+    w: `https://web.whatsapp.com/`,
 };
 
 let library = {
