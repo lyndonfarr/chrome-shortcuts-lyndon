@@ -6,15 +6,15 @@ function duplicate() {
 };
 
 let links = {
-    b: `https://www.browserstack.com/?campaignid=10028073288&adgroupid=103863232547&adid=434390274153&gclid=EAIaIQobChMI2I6Yx5C-6gIViK3tCh386QK5EAAYASAAEgIcl_D_BwE`,
+    // b: `https://www.browserstack.com/?campaignid=10028073288&adgroupid=103863232547&adid=434390274153&gclid=EAIaIQobChMI2I6Yx5C-6gIViK3tCh386QK5EAAYASAAEgIcl_D_BwE`,
     c: `https://www.coursera.org/`,
     e: `https://www.linkedin.com/in/lyndonfarr/`,
     f: `https://www.freecodecamp.org/learn/`,
     g: `https://github.com/`,
     l: `https://laravel.com/docs/7.x`,
     p: `https://mail.protonmail.com/login`,
-    r: `https://docs.google.com/spreadsheets/d/1y-cb2XBx9aYhENVpKcf99CbFcIt0zdByyNK3mORc-z0/edit#gid=0`,
-    s: `https://web.whatsapp.com/`,
+    // r: `https://docs.google.com/spreadsheets/d/1y-cb2XBx9aYhENVpKcf99CbFcIt0zdByyNK3mORc-z0/edit#gid=0`,
+    // s: `https://web.whatsapp.com/`,
     u: `https://www.udemy.com/home/my-courses/learning/`,
     v: `https://vuejs.org/v2/guide/`,
 };
